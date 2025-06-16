@@ -46,6 +46,8 @@ Saya telah bekerja dengan berbagai *tools* dan teknologi yang menunjang pengemba
 ## 🌐 Terhubung dengan Saya:
 Anda bisa menemukan saya di berbagai platform:
 
-![Chat - Discord](https://img.shields.io/badge/Chat-Discord-informational?style=flat&logo=discord&logoColor=white&color=5865F2) [![Chat - WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-informational?style=flat&logo=whatsapp&logoColor=white&color=25D366)](https://wa.me/YOUR_PHONE_NUMBER) [![Social - Instagram](https://img.shields.io/badge/Social-Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://instagram.com/YOUR_INSTAGRAM_USERNAME) [![Social - Facebook](https://img.shields.io/badge/Social-Facebook-informational?style=flat&logo=facebook&logoColor=white&color=1877F2)](https://www.facebook.com/YOUR_FACEBOOK_USERNAME/) ---
+[![Chat - Discord](https://img.shields.io/badge/Chat-Discord-informational?style=flat&logo=discord&logoColor=white&color=5865F2)](https://discordapp.com/users/lubisus31)
+[![Chat - WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-informational?style=flat&logo=whatsapp&logoColor=white&color=25D366)](https://wa.me/6283183634028)
+[![Social - Instagram](https://img.shields.io/badge/Social-Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://instagram.com/kandar.lubis31)
 
 ---
