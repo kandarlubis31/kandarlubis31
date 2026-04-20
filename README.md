@@ -1,8 +1,6 @@
 <div align="center">
 
-# KANDAR LUBIS
-
-**Software Engineer | Cloud Infrastructure Enthusiast**
+# **Software Engineer | Cloud Infrastructure Enthusiast**
 
 *Engineering end-to-end solutions, from scalable applications to reliable server deployments.*
 
