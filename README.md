@@ -1,62 +1,96 @@
 <div align="center">
 
-# **Software Engineer | Cloud Infrastructure Enthusiast**
+# Kandar Lubis
 
-*Engineering end-to-end solutions, from scalable applications to reliable server deployments.*
+### IT Support • Full-Stack Developer • Open Source Maintainer
 
-<br>
+Building practical software, automation systems, and AI-powered tools focused on real-world productivity.
 
-I focus on building performant systems using modern stacks and ensuring they are deployed securely and efficiently. Experienced in web development, server provisioning, and network infrastructure.
+I develop and maintain open-source projects, web applications, internal business systems, and automation workflows. My interests include AI agents, developer tooling, infrastructure, and privacy-focused applications that run efficiently at scale.
 
 <br>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kandarlubis31@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kandarlubis)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kandarlubis31)
 
 </div>
 
 <br>
 
-### TECH STACK & TOOLS
+### 🚀 ABOUT ME
 
-**Development:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/Astro-0F172A?style=flat-square&logo=astro)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpine.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Infrastructure & Operations:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+* Primary maintainer of **ToolsAulia**, an open-source collection of browser-based developer and productivity tools.
+* Experienced in building and deploying full-stack applications from development to production.
+* Interested in AI-assisted automation, autonomous workflows, and developer productivity systems.
+* Background in IT support, infrastructure management, system administration, and software development.
+* Focused on creating practical tools that solve everyday technical problems.
 
 <br>
 
-### FEATURED ENGINEERING WORK
+### 🚀 FEATURED PROJECTS
 
-| Project | Description | Tech Stack |
+| Project | Description | Tech |
 | :--- | :--- | :--- |
-| **JajanSkuy** | Location-based PWA with real-time geolocation tracking optimized for mobile-first performance. | React, Tailwind, Node.js |
-| **SalesManager** | High-performance POS system focusing on transaction speed and complex database management. | Laravel, Livewire, Alpine, Tailwind |
-| **Mas Aul Reminder** | Automated scheduling assistant via WhatsApp API, fully managed on a dedicated VPS. | Python, Ubuntu VPS, Gunicorn |
-| **RAM Slayer** | Desktop utility to optimize system resources and manage background tasks via ADB. | ADB, System Automation |
-| **SDI Am Fatwa Portal** | Institutional website featuring an AJAX-optimized publications module for seamless content delivery. | Web Development, AJAX |
-| **Vintage Thrift Store** | Custom e-commerce platform for vintage apparel featuring complete inventory and order management. | Laravel, PHP, MySQL |
-| **PakLubis Tools** | Suite of web-based utility tools optimized for fast execution and quick access. | JavaScript, Web APIs |
-| **VibemZ** | Music streaming interface featuring custom audio player integration and dynamic media management. | UI/UX, Web Audio API |
-| **Qolbu Portal** | Digital portal for Islamic resources focused on clean layout and fast content delivery. | Web Technologies |
+| **ToolsAulia** | Open-source platform providing browser-based developer, productivity, and utility tools with a privacy-first approach. | Astro, Tailwind, JavaScript |
+| **JajanSkuy** | Progressive Web App for discovering and tracking local food vendors using location-based services. | React, Tailwind, Node.js |
+| **SalesManager** | Point-of-sale and inventory management platform optimized for high-volume business operations. | Laravel, Livewire, Alpine, MySQL |
+| **Mas Aul Reminder** | Automated notification and reminder system running continuously on cloud infrastructure. | Python, Gunicorn, Ubuntu |
+| **RAM Slayer** | Desktop utility focused on resource optimization and Android device management through ADB. | Python, ADB |
+| **Vintage Thrift Store** | Full e-commerce solution with inventory, order processing, and administration features. | Laravel, MySQL |
+| **SDI Am Fatwa Portal** | Institutional website and content management platform for educational organizations. | Laravel |
 
 <br>
 
-### GITHUB STATS
+### 🎯 CURRENT FOCUS
+
+* Maintaining and expanding **ToolsAulia**
+* AI-powered developer productivity tools
+* Autonomous workflow automation
+* Open-source software maintenance
+* Infrastructure and deployment automation
+* Human-in-the-loop AI systems
+
+<br>
+
+### ⚡ INTERESTS
+
+Artificial Intelligence • Automation • Open Source • Developer Tools • Infrastructure • Linux • System Design • Productivity Software • Agentic Systems
+
+<br>
+
+### 📊 GITHUB STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kandarlubis31&show_icons=true&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandarlubis31&layout=compact&hide_border=true&title_color=0077B5" alt="Top Languages" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=kandarlubis31&theme=default&hide_border=true&ring=0077B5&fire=0077B5&currStreakNum=0077B5" alt="GitHub Streak" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=kandarlubis31&label=Profile%20Views&color=0077B5&style=for-the-badge)](https://github.com/kandarlubis31)
+
+[![Followers](https://img.shields.io/github/followers/kandarlubis31?style=for-the-badge&label=Followers&color=0077B5)](https://github.com/kandarlubis31)
+
+[![Repos](https://img.shields.io/github/repos/kandarlubis31?style=for-the-badge&label=Repos&color=24292E&logo=github&logoColor=white)](https://github.com/kandarlubis31?tab=repositories)
+
+[![Open Source Maintainer](https://img.shields.io/badge/Open%20Source-Maintainer-2EA44F?style=for-the-badge&logo=github)](https://github.com/kandarlubis31)
+
 </div>
+
+<br>
+
+### 🌍 OPEN SOURCE
+
+#### ToolsAulia
+[![Stars](https://img.shields.io/github/stars/kandarlubis31/tools-aulia?style=for-the-badge&label=Stars&color=gold)](https://github.com/kandarlubis31/tools-aulia/stargazers)
+[![Contributors](https://img.shields.io/github/contributors/kandarlubis31/tools-aulia?style=for-the-badge&label=Contributors&color=0077B5)](https://github.com/kandarlubis31/tools-aulia/graphs/contributors)
+
+* Active maintainer
+* Browser-based developer toolkit
+* Privacy-first architecture (client-side processing)
+* Open-source and community-driven
+* Built with Astro, Tailwind CSS, JavaScript
+
+[View on GitHub](https://github.com/kandarlubis31/tools-aulia) • [Contributing Guide](https://github.com/kandarlubis31/tools-aulia/blob/main/CONTRIBUTING.md) • [License](https://github.com/kandarlubis31/tools-aulia/blob/main/LICENSE)
+
+<br>
+
+### 💬 PHILOSOPHY
+
+> Build useful tools. Automate repetitive work. Keep software accessible.
