@@ -47,8 +47,16 @@ I develop and maintain open-source projects, web applications, internal business
 
 Full product showcases — feature breakdowns, screenshots & architecture diagrams (source code not published):
 
-* 🗣️ [**PulihBicara** — speech-therapy PWA for post-stroke recovery & kids](https://github.com/kandarlubis31/pulihbicara-showcase) — 100% client-side, offline-first, Web Speech API
-* *More product showcases coming soon*
+* 🗣️ [**PulihBicara**](https://github.com/kandarlubis31/pulihbicara-showcase) — speech-therapy PWA for post-stroke recovery & kids (100% client-side, offline-first)
+* ♻️ [**TukarTukar**](https://github.com/kandarlubis31/tukartukar-showcase) — barter platform for second-hand goods (Django + React)
+* 🎮 [**Kuis-Kuy**](https://github.com/kandarlubis31/kuis-kuy-showcase) — RPG-themed survey platform (Next.js 16 + Supabase)
+* 🕌 [**SahabatAI**](https://github.com/kandarlubis31/sahabatai-showcase) — Islamic AI assistant with verified offline dalil RAG ([live demo](https://sahabat-ai-alpha.vercel.app))
+* 🏪 [**SalesManager**](https://github.com/kandarlubis31/salesmanager-showcase) — multi-tenant POS SaaS for UMKM (Laravel + Livewire + Midtrans)
+* 🛍️ [**Sidekick Thrift**](https://github.com/kandarlubis31/officialsidekick-showcase) — thrift store with Instagram scraper + PayPal checkout ([live](https://sidekick.web.id))
+* 🥊 [**Tanding-in**](https://github.com/kandarlubis31/tanding-in-showcase) — sparring partner matchmaking for boxers (Next.js + Socket.io)
+* 👵 [**Rumah Nenek**](https://github.com/kandarlubis31/rumah-nenek-showcase) — WebRTC family voice call designed for the elderly
+* 💍 [**Memory Lane**](https://github.com/kandarlubis31/mindgate-showcase) — 3D walkable wedding invitation with RSVP (Three.js)
+* ⚡ [**GameBooster LBS**](https://github.com/kandarlubis31/gamebooster-showcase) — Android game booster with real native bridge (Flutter)
 
 <br>
 
