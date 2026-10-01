@@ -35,10 +35,20 @@ I develop and maintain open-source projects, web applications, internal business
 | **ToolsAulia** | Open-source platform providing browser-based developer, productivity, and utility tools with a privacy-first approach. | Astro, Tailwind, JavaScript |
 | **JajanSkuy** | Progressive Web App for discovering and tracking local food vendors using location-based services. | React, Tailwind, Node.js |
 | **SalesManager** | Point-of-sale and inventory management platform optimized for high-volume business operations. | Laravel, Livewire, Alpine, MySQL |
+| **PulihBicara** | Speech-therapy PWA for post-stroke patients & children's speech learning — dual mode, fully offline, ICIL-audited (A-). | Astro, TypeScript, PWA |
 | **Mas Aul Reminder** | Automated notification and reminder system running continuously on cloud infrastructure. | Python, Gunicorn, Ubuntu |
 | **RAM Slayer** | Desktop utility focused on resource optimization and Android device management through ADB. | Python, ADB |
 | **Vintage Thrift Store** | Full e-commerce solution with inventory, order processing, and administration features. | Laravel, MySQL |
 | **SDI Am Fatwa Portal** | Institutional website and content management platform for educational organizations. | Laravel |
+
+<br>
+
+### 🛍️ PRODUCT SHOWCASES
+
+Full product showcases — feature breakdowns, screenshots & architecture diagrams (source code not published):
+
+* 🗣️ [**PulihBicara** — speech-therapy PWA for post-stroke recovery & kids](https://github.com/kandarlubis31/pulihbicara-showcase) — 100% client-side, offline-first, Web Speech API
+* *More product showcases coming soon*
 
 <br>
 
