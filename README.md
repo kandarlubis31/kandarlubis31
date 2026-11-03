@@ -41,7 +41,7 @@ source code stays closed:
 * 🎮 [**Kuis-Kuy**](https://github.com/kandarlubis31/kuis-kuy-showcase): survey platform with RPG progression (Next.js 16 + Supabase)
 * 🕌 [**SahabatAI**](https://github.com/kandarlubis31/sahabatai-showcase): Islamic assistant citing only verified dalil, retrieval runs offline ([demo](https://sahabat-ai-alpha.vercel.app))
 * 🏪 [**SalesManager**](https://github.com/kandarlubis31/salesmanager-showcase): multi-tenant POS for UMKM, Midtrans payments (Laravel + Livewire)
-* 🛍️ [**Sidekick Thrift**](https://github.com/kandarlubis31/officialsidekick-showcase): thrift store with an Instagram scraper and PayPal checkout
+* 🛍️ [**Sidekick Thrift**](https://github.com/kandarlubis31/officialsidekick-showcase): thrift store with an Instagram scraper and PayPal checkout ([live](https://sidekick.web.id))
 * 🥊 [**Tanding-in**](https://github.com/kandarlubis31/tanding-in-showcase): matches boxers with sparring partners (Next.js + Socket.io)
 * 👵 [**Rumah Nenek**](https://github.com/kandarlubis31/rumah-nenek-showcase): family voice calls built for elderly users (WebRTC)
 * 💍 [**Memory Lane**](https://github.com/kandarlubis31/mindgate-showcase): walkable 3D wedding invitation with RSVP (Three.js)
