@@ -20,13 +20,13 @@ families, and browser tools that process everything on your own machine.
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
 | **ToolsAulia** | Browser-based developer and utility tools. Files stay on your machine. | Astro, Tailwind, JavaScript |
-| **PulihBicara** | Speech therapy for post-stroke patients and children. Runs with no connection, scores drills offline, audited to WCAG (ICIL grade A). | Astro, TypeScript, PWA |
+| **PulihBicara** | Speech therapy for post-stroke patients and children. Runs with no connection and scores drills offline. Accessibility audited at A- (88%). | Astro, TypeScript, PWA |
 | **SalesManager** | Point-of-sale and stock control built for high-volume counter sales. | Laravel, Livewire, Alpine, MySQL |
 | **Transpara** | Business finance bookkeeping with separate admin, cashier and investor roles. Flags unusual transactions against each category average. [Live](https://transpara-tau.vercel.app) | Ionic React, TypeScript, Supabase |
 | **JajanSkuy** | Maps nearby food vendors and remembers which ones you already tried. | React, Tailwind, Node.js |
 | **Mas Aul Reminder** | Reminder daemon on an Ubuntu box that pushes notifications on schedule. | Python, Gunicorn, Ubuntu |
 | **RAM Slayer** | Frees memory and drives Android devices over ADB. | Python, ADB |
-| **Vintage Thrift Store** | Storefront with inventory, order processing and an admin panel. | Laravel, MySQL |
+| **Sidekick Thrift** | Storefront with inventory, order processing and an admin panel. | Laravel, Livewire, MySQL |
 | **SDI Am Fatwa Portal** | School website with a CMS staff can edit without touching code. | Laravel |
 
 <br>
@@ -41,7 +41,7 @@ source code stays closed:
 * 🎮 [**Kuis-Kuy**](https://github.com/kandarlubis31/kuis-kuy-showcase): survey platform with RPG progression (Next.js 16 + Supabase)
 * 🕌 [**SahabatAI**](https://github.com/kandarlubis31/sahabatai-showcase): Islamic assistant citing only verified dalil, retrieval runs offline ([demo](https://sahabat-ai-alpha.vercel.app))
 * 🏪 [**SalesManager**](https://github.com/kandarlubis31/salesmanager-showcase): multi-tenant POS for UMKM, Midtrans payments (Laravel + Livewire)
-* 🛍️ [**Sidekick Thrift**](https://github.com/kandarlubis31/officialsidekick-showcase): thrift store with an Instagram scraper and PayPal checkout ([live](https://sidekick.web.id))
+* 🛍️ [**Sidekick Thrift**](https://github.com/kandarlubis31/officialsidekick-showcase): thrift store with an Instagram scraper and PayPal checkout
 * 🥊 [**Tanding-in**](https://github.com/kandarlubis31/tanding-in-showcase): matches boxers with sparring partners (Next.js + Socket.io)
 * 👵 [**Rumah Nenek**](https://github.com/kandarlubis31/rumah-nenek-showcase): family voice calls built for elderly users (WebRTC)
 * 💍 [**Memory Lane**](https://github.com/kandarlubis31/mindgate-showcase): walkable 3D wedding invitation with RSVP (Three.js)
@@ -78,6 +78,6 @@ getting Windows and Android hardware to behave.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kandarlubis31&label=Profile%20Views&color=0077B5&style=for-the-badge)](https://github.com/kandarlubis31)
 [![Followers](https://img.shields.io/github/followers/kandarlubis31?style=for-the-badge&label=Followers&color=0077B5)](https://github.com/kandarlubis31?tab=followers)
-[![Repos](https://img.shields.io/badge/Repos-115_(43_public)-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kandarlubis31?tab=repositories)
+[![Repos](https://img.shields.io/badge/Repos-115_(42_public)-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kandarlubis31?tab=repositories)
 
 </div>
