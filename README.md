@@ -78,6 +78,6 @@ getting Windows and Android hardware to behave.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kandarlubis31&label=Profile%20Views&color=0077B5&style=for-the-badge)](https://github.com/kandarlubis31)
 [![Followers](https://img.shields.io/github/followers/kandarlubis31?style=for-the-badge&label=Followers&color=0077B5)](https://github.com/kandarlubis31?tab=followers)
-[![Repos](https://img.shields.io/badge/Repos-115_(42_public)-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kandarlubis31?tab=repositories)
+[![Repos](https://img.shields.io/badge/Repos-115_(41_public)-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kandarlubis31?tab=repositories)
 
 </div>
