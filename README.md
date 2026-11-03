@@ -22,6 +22,7 @@ families, and browser tools that process everything on your own machine.
 | **ToolsAulia** | Browser-based developer and utility tools. Files stay on your machine. | Astro, Tailwind, JavaScript |
 | **PulihBicara** | Speech therapy for post-stroke patients and children. Runs with no connection, scores drills offline, audited to WCAG (ICIL grade A). | Astro, TypeScript, PWA |
 | **SalesManager** | Point-of-sale and stock control built for high-volume counter sales. | Laravel, Livewire, Alpine, MySQL |
+| **Transpara** | Business finance bookkeeping with separate admin, cashier and investor roles. Flags unusual transactions against each category average. [Live](https://transpara-tau.vercel.app) | Ionic React, TypeScript, Supabase |
 | **JajanSkuy** | Maps nearby food vendors and remembers which ones you already tried. | React, Tailwind, Node.js |
 | **Mas Aul Reminder** | Reminder daemon on an Ubuntu box that pushes notifications on schedule. | Python, Gunicorn, Ubuntu |
 | **RAM Slayer** | Frees memory and drives Android devices over ADB. | Python, ADB |
