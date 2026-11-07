@@ -15,7 +15,7 @@ families, and browser tools that process everything on your own machine.
 
 <br>
 
-### 🛠️ Work
+### Work
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
@@ -31,7 +31,7 @@ families, and browser tools that process everything on your own machine.
 
 <br>
 
-### 🛍️ Product showcases
+### Product showcases
 
 Feature breakdowns, screenshots and architecture diagrams for products whose
 source code stays closed. Each project name links to its showcase repository:
@@ -52,7 +52,7 @@ source code stays closed. Each project name links to its showcase repository:
 
 <br>
 
-### 🌍 Open source
+### Open source
 
 Two projects I maintain in public:
 
@@ -69,7 +69,7 @@ agents query over MCP: 243 courses across 32 faculties, 10 tools, P@3 86.5%.
 
 <br>
 
-### ⚙️ Stack
+### Stack
 
 TypeScript · JavaScript · Python · Astro · React · Next.js · Laravel · Livewire ·
 Tailwind CSS · MySQL · Supabase · Docker · Ubuntu
@@ -79,7 +79,7 @@ getting Windows and Android hardware to behave.
 
 <br>
 
-### 📊 GitHub stats
+### GitHub stats
 
 <div align="center">
 
@@ -88,3 +88,11 @@ getting Windows and Android hardware to behave.
 [![Repos](https://img.shields.io/badge/Repos-112_(63_public)-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kandarlubis31?tab=repositories)
 
 </div>
+
+---
+
+## Bahasa Indonesia
+
+Halaman profil ini merangkum pekerjaan Kandar Lubis sebagai IT support dan full-stack developer: sistem point-of-sale untuk usaha kecil, PWA offline-first untuk klinik dan keluarga, serta perkakas browser yang memproses data di perangkat pengguna.
+
+Repositori yang dipublikasikan terbuka untuk dibaca; produk yang berpotensi dikomersialkan ditampilkan sebagai showcase tanpa kode sumber.
