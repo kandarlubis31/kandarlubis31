@@ -39,7 +39,7 @@ source code stays closed. Each project name links to its showcase repository:
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| [**Tri Mandala Shakti**](https://github.com/kandarlubis31/tri-mandala-shakti-showcase) | Company profile for a general-services contractor serving oil & gas in Balikpapan, with six service lines that each get an in-depth page. | Astro, TypeScript, Vercel |
+| [**Tri Mandala Shakti**](https://github.com/kandarlubis31/tri-mandala-shakti-showcase) | Company profile for a general-services contractor serving oil & gas in Balikpapan, with six service lines that each get an in-depth page. [Live](https://tri-mandala-shakti.vercel.app) | Astro, TypeScript, Vercel |
 | [**Antry**](https://github.com/kandarlubis31/antry-showcase) | Session-based access queue: hosts publish time slots with quotas, visitors book one instead of hammering refresh. [Live](https://antry-cyan.vercel.app) | Next.js 16, Neon, Drizzle |
 | [**DrinkDunk**](https://github.com/kandarlubis31/drinkdunk-showcase) | Recipe catalogue for mocktails and cocktails where every measurement is validated at build time. | Next.js, TypeScript, Tailwind |
 | [**KulitBro**](https://github.com/kandarlubis31/kulit-bro-showcase) | Grooming guide that starts from a skin, hair, body or fragrance condition instead of a product; 59 entries, offline PWA. | React, TypeScript, PWA |
