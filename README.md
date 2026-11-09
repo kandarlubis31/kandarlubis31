@@ -19,6 +19,7 @@ families, and browser tools that process everything on your own machine.
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
+| **Antry** | Session-based access queue for small and community sites. Hosts publish time slots with per-session quotas, visitors book one instead of hammering refresh. No account needed. [Live](https://antry-cyan.vercel.app) | Next.js 16, TypeScript, Neon, Drizzle |
 | **ToolsAulia** | Browser-based developer and utility tools. Files stay on your machine. | Astro, Tailwind, JavaScript |
 | **PulihBicara** | Speech therapy for post-stroke patients and children. Runs with no connection and scores drills offline. Accessibility audited at A- (88%). | Astro, TypeScript, PWA |
 | **SalesManager** | Point-of-sale and stock control built for high-volume counter sales. | Laravel, Livewire, Alpine, MySQL |
@@ -38,6 +39,10 @@ source code stays closed. Each project name links to its showcase repository:
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
+| [**Tri Mandala Shakti**](https://github.com/kandarlubis31/tri-mandala-shakti-showcase) | Company profile for a general-services contractor serving oil & gas in Balikpapan, with six service lines that each get an in-depth page. | Astro, TypeScript, Vercel |
+| [**Antry**](https://github.com/kandarlubis31/antry-showcase) | Session-based access queue: hosts publish time slots with quotas, visitors book one instead of hammering refresh. [Live](https://antry-cyan.vercel.app) | Next.js 16, Neon, Drizzle |
+| [**DrinkDunk**](https://github.com/kandarlubis31/drinkdunk-showcase) | Recipe catalogue for mocktails and cocktails where every measurement is validated at build time. | Next.js, TypeScript, Tailwind |
+| [**KulitBro**](https://github.com/kandarlubis31/kulit-bro-showcase) | Grooming guide that starts from a skin, hair, body or fragrance condition instead of a product; 59 entries, offline PWA. | React, TypeScript, PWA |
 | [**PulihBicara**](https://github.com/kandarlubis31/pulihbicara-showcase) | Speech therapy for post-stroke patients and children, 100% client-side and offline-first. | Astro, TypeScript, PWA |
 | [**Kuis-Kuy**](https://github.com/kandarlubis31/kuis-kuy-showcase) | Survey platform with RPG progression. | Next.js 16, Supabase |
 | [**SahabatAI**](https://github.com/kandarlubis31/sahabatai-showcase) | Islamic assistant citing only verified dalil, retrieval runs offline. [Demo](https://sahabat-ai-alpha.vercel.app) | React, TypeScript, multi-provider LLM |
